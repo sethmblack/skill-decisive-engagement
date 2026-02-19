@@ -3,8 +3,9 @@ name: decisive-engagement
 description: Transform indecisive conflicts into decisive victories. Seek total resolution, not merely favorable outcomes.
 license: MIT
 metadata:
+  version: 1.0.3791
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decisive-engagement
 - transformation
